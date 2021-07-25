@@ -1,4 +1,4 @@
-# DungeonOfDoom
+# Dungeon of Doom
 Simple game created for a coursework! \
 Objective: Collect gold and escape! \
 ## Instructions:
